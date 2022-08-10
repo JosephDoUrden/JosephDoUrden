@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Solidity**
 
-- 🟠 Visit my Patika.dev profile on [https://app.patika.dev/yusufhansck)
+- 🟠 Visit my Patika.dev profile on https://app.patika.dev/yusufhansck
 
 - 📝 I regularly write articles on [https://medium.com/@yusufhansacak](https://medium.com/@yusufhansacak)
 
