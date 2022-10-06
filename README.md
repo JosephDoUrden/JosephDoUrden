@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Yusufhan 👋</h1>
-<h3 align="center">Computer Engineering Student at Bahcesehir University</h3>
+<h3 align="center">Web3 Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephdourden&label=Profile%20views&color=0e75b6&style=flat" alt="josephdourden" /> </p>
 
