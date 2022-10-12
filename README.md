@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yusufhan.sacak@bahcesehir.edu.tr**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k6wx1n2nxUYZ8CGt98g5N1Y_TRdhacA7/view?usp=sharing](https://drive.google.com/file/d/1k6wx1n2nxUYZ8CGt98g5N1Y_TRdhacA7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1k6wx1n2nxUYZ8CGt98g5N1Y_TRdhacA7/view?usp=sharing](https://drive.google.com/file/d/1QUuKly_9UBbesUpQDy2FmC47WVEKCXWD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
