@@ -1,15 +1,15 @@
 <h1 align="center">Hello World! I'm Yusufhan 👋</h1>
-<h3 align="center">Web3 Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephdourden&label=Profile%20views&color=0e75b6&style=flat" alt="josephdourden" /> </p>
 
-- 🌱 I’m currently learning **Java, Solidity**
+- 🌱 I’m currently learning **React NodeJS**
 
 - 🟠 Visit my Patika.dev profile https://app.patika.dev/yusufhansck
 
 - 📝 I regularly write articles on [https://medium.com/@yusufhansacak](https://medium.com/@yusufhansacak)
 
-- 💬 Ask me about **Computer Engineering, Cyber Security, Blockchain**
+- 💬 Ask me about **Computer Engineering, Cyber Security, Blockchain, Web Development**
 
 - 📫 How to reach me **yusufhan.sacak@bahcesehir.edu.tr**
 
