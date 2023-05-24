@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephdourden&label=Profile%20views&color=0e75b6&style=flat" alt="josephdourden" /> </p>
 
-- 🌱 I’m currently learning **React NodeJS**
+- 🌱 I’m currently learning **Flutter**
 
 - 🟠 Visit my Patika.dev profile https://app.patika.dev/yusufhansck
 
-- 📝 I regularly write articles on [https://medium.com/@yusufhansacak](https://medium.com/@yusufhansacak)
+- 📝 Medium:  [https://medium.com/@yusufhansacak](https://medium.com/@yusufhansacak)
 
-- 💬 Ask me about **Computer Engineering, Cyber Security, Blockchain, Web Development**
+- 💬 Ask me about **Web | Mobile Technologies**
 
 - 📫 How to reach me **yusufhan.sacak@bahcesehir.edu.tr**
 
