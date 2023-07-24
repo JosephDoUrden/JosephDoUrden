@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 🟠 Visit my Patika.dev profile https://app.patika.dev/yusufhansck
-
 - 📝 Medium:  [https://medium.com/@yusufhansacak](https://medium.com/@yusufhansacak)
 
 - 💬 Ask me about **Web | Mobile Technologies**
