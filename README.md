@@ -3,15 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephdourden&label=Profile%20views&color=0e75b6&style=flat" alt="josephdourden" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 📝 Medium:  [https://medium.com/@yusufhansacak](https://medium.com/@yusufhansacak)
+I'm Yusufhan, a Computer Engineer, Web and Mobile Developer, and UX/UI Designer. I transform ideas into seamless digital experiences that bridge innovation and user-centric design.
 
 - 💬 Ask me about **Web | Mobile Technologies**
 
+- 📝 Medium:  [@yusufhansacak](https://medium.com/@yusufhansacak)
+
+- 💻 Website [yusufhan.dev](https://yusufhan.dev/)
+
 - 📫 How to reach me **yusufhan.sacak@bahcesehir.edu.tr**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WM_PBz5d9UkW-djY0ANQuSbLwz3j-KiC/view?usp=sharing](https://drive.google.com/file/d/1WM_PBz5d9UkW-djY0ANQuSbLwz3j-KiC/view?usp=sharing)
+- 📄 Know about my experiences [Download CV](https://drive.google.com/file/d/1WM_PBz5d9UkW-djY0ANQuSbLwz3j-KiC/view?usp=sharing)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
