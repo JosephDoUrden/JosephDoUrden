@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephdourden&label=Profile%20views&color=0e75b6&style=flat" alt="josephdourden" /> </p>
 
-I'm Yusufhan, a Computer Engineer, Web and Mobile Developer, and UX/UI Designer. I transform ideas into seamless digital experiences that bridge innovation and user-centric design.
+Yusufhan Saçak, a Full Stack Developer, brings a unique blend of technical prowess and creative flair to the world of web and mobile development. Fueled by a deep passion for cybersecurity, he graduated with top honours from Istanbul Bilgi University's Cyber Security Department. Beyond the coding screen, Yusufhan is a natural leader, steering the helm at the Bi'Siber Cyber Security Club and infusing his innovative spirit into captivating UI/UX designs. In a rapidly evolving tech landscape, he stands out not just for his skills but for the genuine enthusiasm he brings to every project.
 
 - 💬 Ask me about **Web | Mobile Technologies**
 
