@@ -11,7 +11,7 @@ Yusufhan Saçak, a Full Stack Developer, brings a unique blend of technical prow
 
 - 💻 Website [yusufhan.dev](https://yusufhan.dev/)
 
-- 📫 How to reach me **yusufhan.sacak@bahcesehir.edu.tr**
+- 📫 How to reach me **yusufhansck@gmail.com**
 
 - 📄 Know about my experiences [Download CV](https://drive.google.com/file/d/1WM_PBz5d9UkW-djY0ANQuSbLwz3j-KiC/view?usp=sharing)
 
