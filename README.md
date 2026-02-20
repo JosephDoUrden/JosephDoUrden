@@ -56,6 +56,7 @@ AI              LLM integrations  AI workflows  Automation pipelines
 | **vercel-seo-audit** | Open-source SEO audit CLI for Vercel | TypeScript, Node.js |
 | **SetTimer** | Workout timer app on App Store | Flutter, Dart |
 | **ModaModel** | AI fashion photography app | Flutter, Gemini |
+| **cloudflare/workerd** | [Contributor — TextDecoder x-user-defined encoding](https://github.com/cloudflare/workerd/pull/6040) | C++ |
 
 ---
 
