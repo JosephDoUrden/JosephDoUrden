@@ -24,7 +24,7 @@ Background in Cyber Security and Computer Engineering. Mostly TypeScript on Node
 
 ## Security
 
-- **[CVE-2026-44429](https://github.com/advisories/GHSA-rqv2-m075-h8mj)** — Stored XSS in the official Model Context Protocol Registry catalogue UI. Disclosed and patched, May 2026. Assigned by GitHub-as-CNA.
+- **[CVE-2026-44429](https://github.com/advisories/GHSA-rqv2-m695-f8j4)** — Stored XSS in the official Model Context Protocol Registry catalogue UI. Disclosed and patched, May 2026. Assigned by GitHub-as-CNA.
 
 ## Writing
 
