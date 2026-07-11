@@ -1,6 +1,6 @@
 # Yusufhan Saçak
 
-Lead Engineer at [rubica](https://www.rubica.au/) — building AI platforms for Australian financial advisers. I founded the platform end-to-end: multi-provider chat (AWS Bedrock, native Anthropic, Google, OpenAI), a Model Context Protocol (MCP) connector fleet, and the security posture that runs them.
+AI Platform Engineer at [rubica](https://www.rubica.au/) — LLM & MCP infrastructure and application & supply-chain security for a regulated Australian financial-advice platform. I built the platform's core end-to-end: multi-provider chat (AWS Bedrock, native Anthropic, Google, OpenAI), a Model Context Protocol (MCP) connector fleet, and the security posture that runs them.
 
 Background in Cyber Security and Computer Engineering. Mostly TypeScript on Node.js and Next.js, with the Anthropic SDK on the platform side.
 
