@@ -1,4 +1,4 @@
-# Yusufhan Saçak
+# Yusufhan Sacak
 
 AI Platform Engineer at [rubica](https://www.rubica.au/) — LLM & MCP infrastructure and application & supply-chain security for a regulated Australian financial-advice platform. I built the platform's core end-to-end: multi-provider chat (AWS Bedrock, native Anthropic, Google, OpenAI), a Model Context Protocol (MCP) connector fleet, and the security posture that runs them.
 
