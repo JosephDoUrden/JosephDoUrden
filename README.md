@@ -11,11 +11,13 @@ Background in Cyber Security and Computer Engineering. Mostly TypeScript on Node
 ## Open source
 
 - [**vercel-seo-audit**](https://github.com/JosephDoUrden/vercel-seo-audit) — CLI auditing Next.js / Vercel deploys for SEO and indexing failures. Published on npm.
-- [**webhook-hmac-kit**](https://github.com/JosephDoUrden/webhook-hmac-kit) — Stripe-style webhook signing without the Stripe lock-in.
+- [**webhook-hmac-kit**](https://github.com/JosephDoUrden/webhook-hmac-kit) — Webhook signing that hashes the bytes, not a decoded string. Stripe-style and Standard Webhooks formats, no runtime dependencies.
 - [**clean-repo-standard**](https://github.com/JosephDoUrden/clean-repo-standard) — Production-safe GitHub repo template: branch protection, CI, PR templates, verified commits.
 
 ## Merged upstream
 
+- [`getsentry/sentry-javascript#24030`](https://github.com/getsentry/sentry-javascript/pull/24030) — fix(deno): Don't throw in Deno.serve wrapper when no client is bound
+- [`modelcontextprotocol/conformance#476`](https://github.com/modelcontextprotocol/conformance/pull/476) — fix(http-base): return valid empty results for unhandled list methods
 - [`modelcontextprotocol/registry#1436`](https://github.com/modelcontextprotocol/registry/pull/1436) — fix(api): allow PATCH in CORS so browsers can call the status endpoints
 - [`modelcontextprotocol/registry#1149`](https://github.com/modelcontextprotocol/registry/pull/1149) — fix(publisher): omit repository when URL cannot be detected
 - [`modelcontextprotocol/registry#1145`](https://github.com/modelcontextprotocol/registry/pull/1145) — feat(publisher): copy version from package.json and prefer mcpName in init
